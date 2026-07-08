@@ -40,7 +40,7 @@ async def main():
     await client.start()
     channel = await client.get_input_entity(CHANNEL_USERNAME)
     last_downloaded_intid = int(downloaded_data["general_info"]["last_downloaded_internal_id"]) + 1
-    if origin_data["audio_info"][str(last_downloaded_intid)]:
+    if origin_data["audio_info"][str(last_downloaded_intid)] and str(last_downloaded_intid) in origin_data["audio_info"]:
         origin_detail = origin_data["audio_info"][str(last_downloaded_intid)]
         await download_audio_by_internal_id(client, channel, origin_data, last_downloaded_intid, conf.DOWNLOAD_PATH )
         opus_filename = add_opus_extension(origin_detail["filename"])
