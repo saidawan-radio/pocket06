@@ -197,10 +197,54 @@
             "document_id": 5877474032302957684,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/421_saidaWan_20260616-0945.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/421.jpg"
+        },
+        "422": {
+            "id": "422",
+            "title": "قیبلەی مورادان",
+            "performer": "Kani",
+            "duration": 409,
+            "date": "20260617-1830",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "634",
+            "message": "مردم و نەمزانی ئەو ئاورەی منی سووتاند چ بوو\nحاسڵی سەیر و سلووکی عاشقان هەر حەیرەتە\nمردم و هەرگیز نەگەیمە قیبلەیی تاقی برۆت\nئاخر ئەی قیبلەی مورادان تا بەکەی ئەم حەسرەتە؟\nوەفایی\n~>\nکانی",
+            "filename": "422_saidaWan_Kani_20260617-1830.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260617-1837",
+            "size": 11,
+            "document_id": 5879725832116643578,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/422_saidaWan_Kani_20260617-1830.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/422.jpg"
+        },
+        "423": {
+            "id": "423",
+            "title": "Ay Yari Nazdar",
+            "performer": "Agreen Dilshad",
+            "duration": 353,
+            "date": "20260706-0916",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "638",
+            "message": "",
+            "filename": "423_saidaWan_Ay-Yari-Nazdar_Agreen-Dilshad_20260706-0916.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260706-2251",
+            "size": 6,
+            "document_id": 5933598702127030242,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/musics/423_saidaWan_Ay-Yari-Nazdar_Agreen-Dilshad_20260706-0916.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket06/master/covers/423.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 421
+        "last_downloaded_internal_id": 423
     }
 }
